@@ -6,7 +6,6 @@
   "type": "module",
   "license": "GNU v2",
   "scripts": {
-    "start": "npm start",
     "dev": "vite",
     "build": "tsc && vite build",
     "pretty": "prettier --write .",
